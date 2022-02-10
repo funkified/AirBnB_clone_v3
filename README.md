@@ -158,7 +158,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Sergio Vera - [Github](https://github.com/funkified)
+Kevin Ramos - [Github](https://github.com/KevinTMO)
 
 Second part of Airbnb: Joann Vuong
+
+Final part of Airbnb: Sergio Vera and Kevin Ramos
+
 ## License
 Public Domain. No copy write protection. 
